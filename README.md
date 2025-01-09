@@ -32,4 +32,4 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
-https://drive.google.com/drive/u/0/folders/1IGBkEvWfTMmsclrB8Mgo3leTp3x8RFEN
+
